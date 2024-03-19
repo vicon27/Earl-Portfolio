@@ -1,0 +1,6 @@
+Color schemes
+background color: #1f242d
+Text-color(dark): #d5e1dd
+Supporting elements: #77bed2
+Titles/Headlines: #f2583e
+Supporting color: #2b3e42
